@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExceptionHandling.Api.NewApproach.props" />
+</Project>

@@ -1,0 +1,11 @@
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\bin\Debug\net8.0\ExceptionHandling.Domain.deps.json
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\bin\Debug\net8.0\ExceptionHandling.Domain.dll
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\bin\Debug\net8.0\ExceptionHandling.Domain.pdb
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\net8.0\ExceptionHandling.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\net8.0\ExceptionHandling.Domain.AssemblyInfoInputs.cache
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\net8.0\ExceptionHandling.Domain.AssemblyInfo.cs
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\net8.0\ExceptionHandling.Domain.csproj.CoreCompileInputs.cache
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\net8.0\ExceptionHandling.Domain.dll
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\net8.0\refint\ExceptionHandling.Domain.dll
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\net8.0\ExceptionHandling.Domain.pdb
+C:\Pavan\Dream\ExceptionHandling\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\net8.0\ref\ExceptionHandling.Domain.dll

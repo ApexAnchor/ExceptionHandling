@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIuZ7kfyFSN8jWUdCSAr0jJD3Rq00LSxZ74RxSQcI+qh8jkg2bgEDWFXV8D2D6avOXqhUAZ3SggaJRJb6+i2HA==",
+  "success": true,
+  "projectFilePath": "C:\\Pavan\\Dream\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.NewApproach\\ExceptionHandling.Api.NewApproach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pavan_Murulidhara\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Pavan_Murulidhara\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Pavan_Murulidhara\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Pavan_Murulidhara\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Pavan_Murulidhara\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Pavan_Murulidhara\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
